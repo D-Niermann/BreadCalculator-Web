@@ -4,10 +4,13 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 
 import {GridRenderer} from "./gridRenderer"
-
+import {NavBar} from "./navBar"
 
 ReactDOM.render(
-	<GridRenderer/>,
+	<div>
+		<NavBar/>
+		<GridRenderer/>
+	</div>,
 	document.getElementById('root')
 );
 
