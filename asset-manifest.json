@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BreadCalculator-Web/static/css/main.fba85e8c.css",
-    "main.js": "/BreadCalculator-Web/static/js/main.e15bab8e.js",
+    "main.css": "/BreadCalculator-Web/static/css/main.bd5f573c.css",
+    "main.js": "/BreadCalculator-Web/static/js/main.6169bbd3.js",
     "static/js/787.51611182.chunk.js": "/BreadCalculator-Web/static/js/787.51611182.chunk.js",
     "index.html": "/BreadCalculator-Web/index.html",
-    "main.fba85e8c.css.map": "/BreadCalculator-Web/static/css/main.fba85e8c.css.map",
-    "main.e15bab8e.js.map": "/BreadCalculator-Web/static/js/main.e15bab8e.js.map",
+    "main.bd5f573c.css.map": "/BreadCalculator-Web/static/css/main.bd5f573c.css.map",
+    "main.6169bbd3.js.map": "/BreadCalculator-Web/static/js/main.6169bbd3.js.map",
     "787.51611182.chunk.js.map": "/BreadCalculator-Web/static/js/787.51611182.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fba85e8c.css",
-    "static/js/main.e15bab8e.js"
+    "static/css/main.bd5f573c.css",
+    "static/js/main.6169bbd3.js"
   ]
 }
