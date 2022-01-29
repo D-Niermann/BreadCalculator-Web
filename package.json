@@ -1,6 +1,6 @@
 {
-  "name": "bread-calculator",
-  "homepage": "http://D-Niermann/github.io/BreadCalculator-Web",
+  "name": "creadcalculator-web",
+  "homepage": "https://d-niermann.github.io/BreadCalculator-Web/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
